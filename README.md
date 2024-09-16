@@ -1,6 +1,6 @@
 # Discord Voice - by @flavio.snk
 
-# Sobre
+## Sobre
 
 O Discord Voice foi desenvolvido para auxiliar usuários que não possuem microfone a se comunicar no Discord de forma eficiente.
 
